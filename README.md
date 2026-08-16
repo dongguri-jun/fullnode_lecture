@@ -27,7 +27,7 @@ The concepts and operating topics were organized with the [Plan ₿ Academy Bitc
 - [BTC202 Korean course](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/courses/btc202/ko.md)
 - [Plan ₿ Academy repository license](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/LICENSE.md)
 
-The PDFs in this repository are Dongguri-Jun's own lecture slides, with their own titles, creator credit, events, structure, and wording. They are not presented as official Plan ₿ Academy translations or official distributions. The two sets of materials cover overlapping topics such as full nodes, wallet connections, Umbrel, Electrs, synchronization, and network participation, but the PDFs do not state that they directly translate Plan ₿ Academy source text.
+I created these slides with reference to Plan ₿ Academy’s BTC202 course. They are not official translations; the structure and explanations were developed for each event.
 
 ## License
 

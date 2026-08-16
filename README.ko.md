@@ -27,7 +27,7 @@
 - [BTC202 Korean course](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/courses/btc202/ko.md)
 - [Plan ₿ Academy 저장소 라이선스](https://github.com/PlanB-Network/bitcoin-educational-content/blob/dev/LICENSE.md)
 
-이 저장소의 PDF는 제목, 제작자, 행사, 구성과 표현을 자체적으로 갖춘 Dongguri-Jun의 강의 슬라이드입니다. Plan ₿ Academy의 공식 번역본이나 공식 배포본으로 표기하지 않습니다. 두 자료군은 풀노드, 지갑 연결, Umbrel·Electrs, 동기화와 네트워크 참여처럼 겹치는 주제를 다루지만, PDF에서 Plan ₿ Academy 원문을 직접 번역했다는 표시는 확인되지 않았습니다.
+이 강의 자료는 Plan ₿ Academy의 BTC202를 참고해 제가 직접 구성했습니다. 공식 번역본은 아니며, 강의 흐름과 설명은 각 행사에 맞게 새로 만들었습니다.
 
 ## 라이선스
 
